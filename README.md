@@ -1,1 +1,2 @@
-# plugin-linkedin-api-connector
+# Plugin LinkedIn API 
+Retrieve data from LinkedIn's Marketing developer platform
